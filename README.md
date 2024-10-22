@@ -7,16 +7,16 @@ An interactive periodic table web application that allows users to explore infor
 - **Interactive UI**: Hover, click, and interact with elements to see more details.
 - **Element Details**: Provides atomic information like symbol, atomic number, atomic weight, and more.
 
-## Demo
+## Demo Video
 
-[Click here to view the demo](./screenshots/demo_video.mp4)
+[Download Demo video](./screenshots/demo_video.mp4)
 
 ## Screenshots
 
-![Over view of Periodic Table](./screenshots/over_view.png)
-![Hover effect](./screenshots/hover_effect.png)
-![On click modal](./screenshots/on_click_modal.png)
-![Scrollable content](./screenshots/scorllable_content.png)
+[Over view of Periodic Table](./screenshots/over_view.png)
+[Hover effect](./screenshots/hover_effect.png)
+[On click modal](./screenshots/on_click_modal.png)
+[Scrollable content](./screenshots/scorllable_content.png)
 
 ## Installation
 
@@ -49,7 +49,5 @@ To set up the project locally:
 
 # Project Name
 
-## Demo Video
 
-[Watch Demo video](./screenshots/demo_video.mp4)
 
