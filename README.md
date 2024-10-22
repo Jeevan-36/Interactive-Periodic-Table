@@ -10,7 +10,7 @@ An interactive periodic table web application that allows users to explore infor
 ## Screenshots
 
 ### Over view of Periodic Table
-![Over view of Periodic Table](./screenshots/over_view.png)
+![Over view of Periodic Table](./screenshots/Over_view.png)
 ### Hover effect
 ![Hover effect](./screenshots/hover_effect.png)
 ### On click modal
