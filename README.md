@@ -5,16 +5,18 @@ An interactive periodic table web application that allows users to explore infor
 ## Features
 
 - **Interactive UI**: Hover, click, and interact with elements to see more details.
-- **Responsive Design**: Works well on both desktop and mobile devices.
 - **Element Details**: Provides atomic information like symbol, atomic number, atomic weight, and more.
 
 ## Demo
 
-[Click here to view the demo](https://your-demo-url.com)
+[Click here to view the demo](./screenshots/demo_video.mp4)
 
 ## Screenshots
 
-![Interactive Periodic Table](./screenshots/periodic_table.png)
+![Over view of Periodic Table](./screenshots/over_view.png)
+![Hover effect](./screenshots/hover_effect.png)
+![On click modal](./screenshots/on_click_modal.png)
+![Scrollable content](./screenshots/scorllable_content.png)
 
 ## Installation
 
@@ -22,12 +24,12 @@ To set up the project locally:
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/your-username/interactive-periodic-table.git
+    git clone https://github.com/Jeevan-36/Interactive-Periodic-Table.git
     ```
 
 2. **Navigate into the project directory**:
     ```bash
-    cd interactive-periodic-table
+    cd Interactive-Periodic-Table
     ```
 
 3. **Install dependencies** (if applicable, e.g., if you're using npm or another package manager):
@@ -42,22 +44,12 @@ To set up the project locally:
 
 ## Usage
 
-- **Hover**: Hover over an element to display its name, atomic number, and symbol.
+- **Hover**: Hover over an element make it to glow and helps to identify uniquely
 - **Click**: Click on an element to see additional details like atomic mass, electron configuration, and other properties.
 
-### Customization
+# Project Name
 
-You can customize the styles and functionality by modifying the following files:
+## Demo Video
 
-- **CSS**: Modify styles in `src/styles/periodic-table.css` to fit your desired theme.
-- **JavaScript**: Update the interactivity in `src/scripts/periodic-table.js`.
+[Watch Demo video](./screenshots/demo_video.mp4)
 
-### Dark Theme
-
-A dark theme is included! Toggle the theme in the settings, or change the hover color by editing the CSS hover effect:
-
-```css
-.element:hover {
-  background-color: #334;
-  color: #fff;
-}
