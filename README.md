@@ -13,10 +13,14 @@ An interactive periodic table web application that allows users to explore infor
 
 ## Screenshots
 
-[Over view of Periodic Table](./screenshots/over_view.png)
-[Hover effect](./screenshots/hover_effect.png)
-[On click modal](./screenshots/on_click_modal.png)
-[Scrollable content](./screenshots/scorllable_content.png)
+### Over view of Periodic Table
+![Over view of Periodic Table](./screenshots/over_view.png)
+### Hover effect
+![Hover effect](./screenshots/hover_effect.png)
+### On click modal
+![On click modal](./screenshots/on_click_modal.png)
+### Scrollable content
+![Scrollable content](./screenshots/scorllable_content.png)
 
 ## Installation
 
@@ -47,7 +51,6 @@ To set up the project locally:
 - **Hover**: Hover over an element make it to glow and helps to identify uniquely
 - **Click**: Click on an element to see additional details like atomic mass, electron configuration, and other properties.
 
-# Project Name
 
 
 
