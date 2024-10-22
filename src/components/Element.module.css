@@ -1,0 +1,24 @@
+
+
+.ElementInfo
+{
+    width: 85px;
+    height: 85px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center; 
+    align-items: flex-start;
+    padding: 5px;
+    margin: 0px;
+    font-size: 0.8em;
+    text-align: center;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    border: 2px solid transparent;
+}
+.ElementInfo:hover{
+    transition: 0.3s;
+    transition-timing-function: ease-in-out;
+    box-shadow: 0px 0px 8px 5px ;
+}
+

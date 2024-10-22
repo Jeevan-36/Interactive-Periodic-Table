@@ -1,0 +1,12 @@
+
+
+.ElementsListContainer
+{
+    display: grid;
+    grid-template-columns: repeat(18, 1fr);
+    grid-template-rows: repeat(10, 1fr);
+    gap: 10px;
+    width: 100vw; 
+    height: 100vh;
+    margin: 20px;
+}

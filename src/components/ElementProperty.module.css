@@ -1,0 +1,17 @@
+
+.DataRow
+{  background-color:rgb(0, 45, 69);
+    display: flex;
+   justify-content: space-between;
+   padding: 0px 20px;
+}
+.Data{
+    background-color:rgb(0, 45, 69);
+    color: white;
+    font-weight: 500;
+}
+.Label
+{
+    font-weight: bold;
+    background-color:rgb(0, 45, 69);
+}
